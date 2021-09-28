@@ -17,4 +17,4 @@ ReactDOM.render(
 reportWebVitals();
 
 
-ReactDOM.render(<h1>Hello Dr.Iesi</h1>, document.getElementById('root'));
+//ReactDOM.render(<h1>Hello Dr.Iesi</h1>, document.getElementById('root'));

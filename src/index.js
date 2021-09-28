@@ -16,5 +16,4 @@ ReactDOM.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
 
-
-ReactDOM.render(<h1>Hello Dr.Iesi</h1>, document.getElementById('root'));
+//ReactDOM.render(<h1>Hello Dr.Iesi</h1>, document.getElementById('root'));
